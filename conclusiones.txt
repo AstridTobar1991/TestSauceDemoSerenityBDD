@@ -1,0 +1,31 @@
+A continuación las conclusiones del proyecto realizado: 
+
+1. Validación del Proceso de Inicio de Sesión:
+   - Las pruebas automatizadas con SerenityBDD y Cucumber para el inicio de sesión en saucedemo.com fueron exitosas.
+   - La funcionalidad de inicio de sesión se comportó de acuerdo con las expectativas, lo que indica que los usuarios pueden acceder de manera segura al sistema.
+
+2. Proceso de Selección de Productos:
+   - Las pruebas automatizadas demostraron que el sistema permite a los usuarios seleccionar productos de manera efectiva.
+   - La interacción con la página para elegir dos productos se realizó sin problemas, evidenciando la estabilidad y funcionalidad de esta característica.
+
+3. Validación del Carrito de Compras:
+   - La transición del proceso de selección de productos al carrito de compras fue exitosa.
+   - La información sobre los productos seleccionados se reflejó correctamente en el carrito, asegurando la integridad del proceso de compra.
+
+4. Proceso de Compra y Formulario:
+   - Las pruebas automatizadas demostraron que los usuarios pueden completar el proceso de compra de manera efectiva.
+   - Se llenaron los campos del formulario de compra sin problemas, indicando que el sistema puede manejar la entrada de datos de manera eficiente.
+
+5. Confirmación de la Compra:
+   - El sistema confirmó la compra correctamente después de completar el formulario.
+   - La confirmación exitosa sugiere que el flujo completo, desde la selección de productos hasta la compra final, está operando según lo esperado.
+
+6. Estabilidad y Consistencia:
+   - Las pruebas con SerenityBDD y Cucumber demostraron la estabilidad y consistencia de las funcionalidades críticas del sistema.
+   - Se ejecutaron múltiples casos de prueba sin incidentes, indicando una sólida confiabilidad en el comportamiento del sistema.
+
+7. Informes Detallados con SerenityBDD:
+   - La generación de informes detallados mediante SerenityBDD proporciona una visión clara y comprensible del estado de las pruebas.
+   - Los informes facilitan la identificación rápida de posibles problemas y permiten un seguimiento efectivo del progreso de las pruebas.
+
+En resumen, las pruebas automatizadas con SerenityBDD y Cucumber en SauceDemo.com han validado con éxito el proceso completo, desde el inicio de sesión hasta la confirmación de la compra. La estabilidad y consistencia observadas indican que el sistema está preparado para manejar estas operaciones en un entorno de producción. Los informes detallados proporcionan una visión clara del estado de las pruebas y son herramientas valiosas para el mantenimiento continuo y la mejora del sistema.
