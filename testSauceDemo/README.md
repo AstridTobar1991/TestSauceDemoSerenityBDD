@@ -1,5 +1,5 @@
 # TestSauceDemoSerenityBDD
-Proyecto donde se prueba la pagina de SauceDemo
+Proyecto donde se prueba la pagina de SauceDemo a traves del uso de SerenityBDD con ScreenPlay y Cucumber
 
 # Configuraciones
 Para poder descargar el proyecto solo debe descargarlo con la siguiente ruta:
